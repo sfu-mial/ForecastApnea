@@ -5,7 +5,7 @@
 [![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0+-orange.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Official PyTorch implementation for **"Multi-Horizon Forecasting of Apnea and Hypopnea Events from Polysomnographic Signals"** published in *IEEE Journal of Biomedical and Health Informatics (JBHI)*.
+Official PyTorch implementation for **"Multi-Horizon Forecasting of Apnea and Hypopnea Events from Polysomnographic Signals"** under review in *IEEE Journal of Biomedical and Health Informatics (JBHI)*.
 
 ---
 
